@@ -1,38 +1,59 @@
+#
+What is the size of int in Java? | A) 2 bytes | B) 4 bytes | C) 8 bytes | D) 16 bytes |B
 
-java
- What is the size of int in Java? | A) 2 bytes B) 4 bytes C) 8 bytes D) 16 bytes | Answer: B) 4 bytes
-         Which keyword is used to create a class in Java? | A) define B) class C) struct D) new | Answer: B) class
-         Which method is the entry point of a Java program? | A) start() B) run() C) main() D) init() | Answer: C) main()
-         Which symbol is used to end a statement in Java? | A) : B) . C) ; D) , | Answer: C) ;
-         Which data type is used to store true or false values? | A) int B) boolean C) char D) float | Answer: B) boolean
-         Which operator is used for addition in Java? | A) * B) - C) + D) / | Answer: C) +
-                 Which loop is guaranteed to execute at least once? | A) for loop B) while loop C) do-while loop D) nested loop | Answer: C) do-while loop
-         Which keyword is used to inherit a class in Java? | A) implements B) extends C) inherits D) super | Answer: B) extends
-         Which package is automatically imported in every Java program? | A) java.io B) java.util C) java.lang D) java.net | Answer: C) java.lang
-         Which of these is not a Java primitive data type? | A) int B) float C) String D) char | Answer: C) String
+Which keyword is used to create a class in Java? | A) define | B) class | C) struct | D) new |B
 
-         science question
+Which method is the entry point of a Java program? | A) start() | B) run() | C) main() | D) init() |C
 
-         What planet is known as the Red Planet? | A) Earth B) Mars C) Jupiter D) Venus | Answer: B) Mars
-         What gas do plants absorb from the atmosphere? | A) Oxygen B) Nitrogen C) Carbon Dioxide D) Hydrogen | Answer: C) Carbon Dioxide
-         What is the chemical formula of water? | A) CO2 B) O2 C) H2O D) NaCl | Answer: C) H2O
-         Which organ pumps blood in the human body? | A) Brain B) Liver C) Heart D) Kidney | Answer: C) Heart
-         What force pulls objects toward Earth? | A) Magnetism B) Friction C) Gravity D) Electricity | Answer: C) Gravity
-         Which part of the plant conducts photosynthesis? | A) Root B) Stem C) Leaf D) Flower | Answer: C) Leaf
-         What is the boiling point of water at sea level? | A) 50°C B) 75°C C) 100°C D) 150°C | Answer: C) 100°C
-         Which vitamin is produced when skin is exposed to sunlight? | A) Vitamin A B) Vitamin B C) Vitamin C D) Vitamin D | Answer: D) Vitamin D
-         Which gas is most abundant in Earth's atmosphere? | A) Oxygen B) Nitrogen C) Carbon Dioxide D) Helium | Answer: B) Nitrogen
-         What is the center of an atom called? | A) Electron B) Proton C) Nucleus D) Neutron | Answer: C) Nucleus
+Which symbol is used to end a statement in Java? | A) : | B) . | C) ; | D) , |  C
 
-         gk question
+Which data type is used to store true or false values? | A) int | B) boolean | C) char | D) float |B
 
-         What is the capital of India? | A) Mumbai B) Delhi C) Kolkata D) Chennai | Answer: B) Delhi
-         Who is known as the Father of the Nation in India? | A) Jawaharlal Nehru B) Subhas Chandra Bose C) Mahatma Gandhi D) Bhagat Singh | Answer: C) Mahatma Gandhi
-         Which is the largest ocean in the world? | A) Atlantic Ocean B) Indian Ocean C) Arctic Ocean D) Pacific Ocean | Answer: D) Pacific Ocean
-         How many continents are there in the world? | A) 5 B) 6 C) 7 D) 8 | Answer: C) 7
-         Which country is famous for the Eiffel Tower? | A) Italy B) Germany C) France D) Spain | Answer: C) France
-         What is the national animal of India? | A) Lion B) Elephant C) Tiger D) Peacock | Answer: C) Tiger
-         Which festival is known as the Festival of Lights? | A) Holi B) Eid C) Christmas D) Diwali | Answer: D) Diwali
-         Who invented the telephone? | A) Thomas Edison B) Alexander Graham Bell C) Isaac Newton D) Albert Einstein | Answer: B) Alexander Graham Bell
-         Which is the longest river in the world? | A) Amazon River B) Nile River C) Ganga River D) Yangtze River | Answer: B) Nile River
-         What is the national currency of Japan? | A) Dollar B) Yuan C) Won D) Yen | Answer: D) Yen
+Which operator is used for addition in Java? | A) * | B) - | C) + | D) / |C
+
+Which loop is guaranteed to execute at least once? | A) for loop | B) while loop | C) do-while loop | D) nested loop |C
+
+Which keyword is used to inherit a class in Java? | A) implements | B) extends | C) inherits | D) super |B
+
+Which package is automatically imported in every Java program? | A) java.io | B) java.util | C) java.lang | D) java.net |C
+
+Which of these is not a Java primitive data type? | A) int | B) float | C) String | D) char |C
+#
+What planet is known as the Red Planet? | A) Earth | B) Mars | C) Jupiter | D) Venus |B
+
+What gas do plants absorb from the atmosphere? | A) Oxygen | B) Nitrogen | C) Carbon Dioxide | D) Hydrogen |C
+
+What is the chemical formula of water? | A) CO2 | B) O2 | C) H2O | D) NaCl |C
+
+Which organ pumps blood in the human body? | A) Brain | B) Liver | C) Heart | D) Kidney |C
+What force pulls objects toward Earth? | A) Magnetism | B) Friction | C) Gravity | D) Electricity |C
+
+Which part of the plant conducts photosynthesis? | A) Root | B) Stem | C) Leaf | D) Flower |C
+
+What is the boiling point of water at sea level? | A) 50°C | B) 75°C | C) 100°C | D) 150°C |C
+
+Which vitamin is produced when skin is exposed to sunlight? | A) Vitamin A | B) Vitamin B | C) Vitamin C | D) Vitamin D |D
+
+Which gas is most abundant in Earth's atmosphere? | A) Oxygen | B) Nitrogen | C) Carbon Dioxide | D) Helium |B
+
+What is the center of an atom called? | A) Electron | B) Proton | C) Nucleus | D) Neutron |C
+#
+What is the capital of India? | A) Mumbai | B) Delhi | C) Kolkata | D) Chennai |B
+
+Who is known as the Father of the Nation in India? | A) Jawaharlal Nehru | B) Subhas Chandra Bose | C) Mahatma Gandhi | D) Bhagat Singh |C
+
+Which is the largest ocean in the world? | A) Atlantic Ocean | B) Indian Ocean | C) Arctic Ocean | D) Pacific Ocean |D
+
+How many continents are there in the world? | A) 5 | B) 6 | C) 7 | D) 8 |C
+
+Which country is famous for the Eiffel Tower? | A) Italy | B) Germany | C) France | D) Spain |C
+
+What is the national animal of India? | A) Lion | B) Elephant | C) Tiger | D) Peacock |C
+
+Which festival is known as the Festival of Lights? | A) Holi | B) Eid | C) Christmas | D) Diwali |D
+
+Who invented the telephone? | A) Thomas Edison | B) Alexander Graham Bell | C) Isaac Newton | D) Albert Einstein |B
+
+Which is the longest river in the world? | A) Amazon River | B) Nile River | C) Ganga River | D) Yangtze River |B
+
+What is the national currency of Japan? | A) Dollar | B) Yuan | C) Won | D) Yen |D

@@ -22,6 +22,8 @@ import  service.*;
                 """);
         System.out.print("ENTER CHOICE : ");
         String c=sc.next();
+        service.QuizService.manageQuestion(sc , quesMap);
+
 
         switch (c){
             case "1" :
@@ -40,17 +42,22 @@ import  service.*;
 
                 switch (category){
                     case "1" :
-service.QuizService.manageQuestion( quesMap);
+                        System.out.println("11111111111111111");
+                         service.QuizService.AllQuestion(sc , category ,quesMap);
+
 
                         break;
 
                     case "2" :
+
                         break;
 
                     case "3" :
+
                         break;
 
                     case "4" :
+                        System.exit(0);
                         break;
                     default:
                         System.out.println("-----INVALID OPTION SELECTED");
