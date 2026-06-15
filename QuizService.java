@@ -53,7 +53,7 @@ public class QuizService {
                     break;
 
                 case "4" :
-                    System.exit(0);
+                     isRunning=false;
                     break;
                 default:
                     System.out.println("-----INVALID OPTION SELECTED");
@@ -117,10 +117,11 @@ public class QuizService {
                 3. ADD  GK QUESTION 
                 4. EXIT QUESTION ADDING
          """);
-
+        System.out.print("ENTER CHOICE : ");
         String choice=sc.next();
         switch (choice){
             case "1":
+                System.out.println("FORMATE OF DATA : QUESTION | OPTION A | OPTION B | OPTION C | OPTION D | CORRECT ANSWER OPTION");
                 System.out.print("ENTER DATA TO ADD : ");
                 String data=sc.next();
                 String path="src/Question";
@@ -128,6 +129,7 @@ public class QuizService {
             break;
 
             case "2":
+                System.out.println("FORMATE OF DATA : QUESTION | OPTION A | OPTION B | OPTION C | OPTION D | CORRECT ANSWER OPTION");
                 System.out.print("ENTER DATA TO ADD : ");
                   data=sc.next();
                   path="src/sQuestion";
@@ -135,6 +137,7 @@ public class QuizService {
                 break;
 
             case "3":
+                System.out.println("FORMATE OF DATA : QUESTION | OPTION A | OPTION B | OPTION C | OPTION D | CORRECT ANSWER OPTION");
                 System.out.print("ENTER DATA TO ADD : ");
                   data=sc.next();
                   path="src/gkQuestion";
